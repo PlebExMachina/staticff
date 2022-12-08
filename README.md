@@ -1,0 +1,2 @@
+# staticff
+static endpoints
